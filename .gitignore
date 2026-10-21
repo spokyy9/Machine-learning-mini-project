@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and AI tools
+.vscode/
+.kilo/
+
+# Environment variables
+.env
+.env.*
+
+# Keep the processed dataset, but ignore the raw PDF
+data/open data.pdf
